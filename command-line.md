@@ -19,7 +19,7 @@ yes
 5. List the files there.  Do you see the same files and in the file
    explorer?  Hint: `ls`
 exercises/  homework/  stuff/
-6. Navigate back to the home folder.  Use the dedicated shortcut for
+6. Navigate back to the ho me folder.  Use the dedicated shortcut for
    home folder.  Hint `~`.
 
 7. Commit and push your changes.
